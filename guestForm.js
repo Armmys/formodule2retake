@@ -1,4 +1,3 @@
-// 65130500005 Kundids Khawmeesri
 // import { createGuestList } from './data/guestdata.js'
 const createGuestList = require('./data/guestdata.js')
 
